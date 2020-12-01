@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Russell</h1>
----
-<h3 align="center">Privacy and security enthursiast looking to promote intential</h3>
+<h3 align="center">Privacy and security enthursiast looking to promote intential cyber defense</h3>
 
 - 🔭 I’m currently working on my M.S. in Cyberssecurity and Information Assurance
-- 🌱 I’m currently learning secure software design
-- 👯 I’m looking to collaborate on cached encryption attacks or multi-factor attacks
+- 🌱 I’m currently learning about secure software design and the security development lifecycle (SDL)
+- 👯 I’m looking to collaborate on cached-key encryption attacks or multi-factor attacks
+
+<!--
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
-
+-->
