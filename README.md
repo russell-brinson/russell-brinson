@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Russell
+<h1 align="center">Hi there 👋, I'm Russell</h1>
+---
 <h3 align="center">Privacy and security enthursiast looking to promote intential</h3>
 
 - 🔭 I’m currently working on my M.S. in Cyberssecurity and Information Assurance
