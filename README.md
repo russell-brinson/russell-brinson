@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Russell
-
-<!--
-**russell-brinson/russell-brinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3 align="center">Privacy and security enthursiast looking to promote intential</h3>
 
 - 🔭 I’m currently working on my M.S. in Cyberssecurity and Information Assurance
 - 🌱 I’m currently learning secure software design
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
--->
+
